@@ -50,3 +50,5 @@ mySchool.addTeam(red_team)
 mySchool.addTeam(blue_team)
 
 print("Total players in mySchool:", mySchool.getTotalPlayersInSchool())
+
+
